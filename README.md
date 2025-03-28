@@ -20,8 +20,3 @@ A repository for managing and analyzing QA inquiries, reports, and scripts.
 
 ---
 
-## 🖼️ How to Add Pictures  
-1. Place images inside an `images/` folder in the repo.  
-2. Reference them in Markdown like this:  
-   ```md
-   ![Description](images/filename.jpg)
