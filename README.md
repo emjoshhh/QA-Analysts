@@ -14,8 +14,8 @@ A repository for managing and analyzing QA inquiries, reports, and scripts.
 ## 👥 Meet the Analysts  
 | Name | Role | Profile |
 |------|------|---------|
-| ![Analyst 1](images/tumbaga.jpg) | **Mark Josh P. Tumabga** | QA Analyst |
-| ![Analyst 1](images/tumbaga.jpg) | **Mark Josh P. Tumabga** | QA Analyst |
+| ![Analyst 1](others/images/tumbaga.jpg) | **Mark Josh P. Tumabga** | QA Analyst |
+| ![Analyst 1](others/images/tumbaga.jpg) | **Mark Josh P. Tumabga** | QA Analyst |
 
 ---
 
