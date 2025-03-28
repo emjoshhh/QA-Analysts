@@ -6,8 +6,4 @@ Contents:
 - 📂 scripts/ – Python, SQL, or other scripts for data processing
 - 📜 README.md – Repository documentation
 
-Usage:
-- Store, update, and track analyst files efficiently.
-- Collaborate on inquiries, reports, and data analysis.
-
 
