@@ -17,9 +17,8 @@ A repository for managing and analyzing QA inquiries, reports, and scripts.
 
 | Picture | Information |
 |---------|------------|
-| <img src="others/images/tumbaga.jpg" alt="Analyst 1" width="100"> | **Name:** Tumbaga, Mark Josh P.  <br> **Contact No.:** 09XXXXXXXXX  <br> **Email:** example@email.com |
-| <img src="others/images/analyst2.jpg" alt="Analyst 2" width="100"> | **Name:** [Second Analyst]  <br> **Contact No.:** 09XXXXXXXXX  <br> **Email:** example@email.com |
-
+| <img src="others/images/tumbaga.jpg" alt="Analyst 1" width="400"> | **Name:** Tumbaga, Mark Josh P.  <br> **Contact No.:** 09695691846  <br> **University Email:** 21-06856@g.batstate-u.edu.ph  <br> **Personal Email:** tumbaga.markjosh@gmail.com |
+| <img src="others/images/tumbaga.jpg" alt="Analyst 1" width="400"> | **Name:** Tumbaga, Mark Josh P.  <br> **Contact No.:** 09695691846  <br> **University Email:** 21-06856@g.batstate-u.edu.ph  <br> **Personal Email:** tumbaga.markjosh@gmail.com |
 
 ---
 
