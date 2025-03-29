@@ -17,8 +17,8 @@ A repository for managing and analyzing QA inquiries, reports, and scripts.
 
 | Picture | Information |
 |---------|------------|
-| ![Analyst 1](others/images/tumbaga.jpg) | **Name:** Tumbaga, Mark Josh P.  <br> **Contact No.:** 09XXXXXXXXX  <br> **Email:** example@email.com |
-| ![Analyst 2](others/images/analyst2.jpg) | **Name:** Reloya, Jeah Casandra G.   <br> **Contact No.:** 09XXXXXXXXX  <br> **Email:** example@email.com |
+| <img src="others/images/tumbaga.jpg" alt="Analyst 1" width="100"> | **Name:** Tumbaga, Mark Josh P.  <br> **Contact No.:** 09XXXXXXXXX  <br> **Email:** example@email.com |
+| <img src="others/images/analyst2.jpg" alt="Analyst 2" width="100"> | **Name:** [Second Analyst]  <br> **Contact No.:** 09XXXXXXXXX  <br> **Email:** example@email.com |
 
 
 ---
