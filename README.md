@@ -14,10 +14,12 @@ A repository for managing and analyzing QA inquiries, reports, and scripts.
 ---
 
 ## 👥 Meet the Analysts  
-| Name | Role | Profile |
-|------|------|---------|
-| ![Analyst 1](others/images/tumbaga.jpg) | **Mark Josh P. Tumabga** | QA Analyst |
-| ![Analyst 1](others/images/tumbaga.jpg) | **Mark Josh P. Tumabga** | QA Analyst |
+
+| Picture | Information |
+|---------|------------|
+| ![Analyst 1](others/images/tumbaga.jpg) | **Name:** Tumbaga, Mark Josh P.  <br> **Contact No.:** 09XXXXXXXXX  <br> **Email:** example@email.com |
+| ![Analyst 2](others/images/analyst2.jpg) | **Name:** Reloya, Jeah Casandra G.   <br> **Contact No.:** 09XXXXXXXXX  <br> **Email:** example@email.com |
+
 
 ---
 
